@@ -1,3 +1,7 @@
+
+<img alt="GitHub" src="https://img.shields.io/github/license/VIJESHG/Algorithms?style=plastic"> <img alt="GitHub" src="https://img.shields.io/badge/Algorithms-Algorithms-brightgreen?style=plastic">
+
+
 # Collection of Algorithms
 Implementation of some important problem statements from GFG, LeetCode, Hackerrank etc. using different Algorithmic paradigm.
 <br>
