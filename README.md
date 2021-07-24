@@ -16,3 +16,7 @@ Implementation of some important problem statements from GFG, LeetCode, Hackerra
          <li>Find if the array can be partitioned into two subsets such that the sum of elements in both subsets is equal</li>
          </p>
  </details>   
+ 
+### Searching and Sorting ###
+### Greedy ###
+### Divide and Conquer ###
