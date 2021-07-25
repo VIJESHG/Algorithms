@@ -21,6 +21,13 @@ Implementation of some important problem statements from GFG, LeetCode, Hackerra
          </p>
  </details>   
  
+<details>
+         <summary>Coin Change</summary>
+         <p><li>Find the number of ways to achieve change using given coins (Recursion & DP approach)</li>
+         <li>Find minimum coin change using given coin collection.</li>
+         </p>
+ </details>  
+ 
 ### Searching and Sorting ###
 ### Greedy ###
 ### Divide and Conquer ###
