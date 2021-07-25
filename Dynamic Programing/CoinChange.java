@@ -48,7 +48,7 @@ public class CoinChange {
                 mem[i][j] = mem[i-1][j];
             }
         }
-        return mem[size][sum];
+        return mem[size][sum] > sum ? -1 : mem[size][sum];
     }
     public void print2DArray(int[][] arr,int m, int n){
         for (int i = 0; i < m; i++) {
@@ -60,10 +60,10 @@ public class CoinChange {
     }
     public static void main(String args[]){
         CoinChange cc = new CoinChange();
-        int[] arr = {1,2,3};
-        System.out.println(cc.coinChangeCountRec(arr,3,5));
-        System.out.println(cc.coinChangeCountMem(arr,3,5));
-        System.out.println(cc.minCoinChange(arr,3,5));
+        int[] arr = {1,2,5};
+        System.out.println(cc.coinChangeCountRec(arr,3,11));
+        System.out.println(cc.coinChangeCountMem(arr,3,11));
+        System.out.println(cc.minCoinChange(arr,3,11));
     }
 }
 
