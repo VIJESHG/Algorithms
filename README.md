@@ -26,8 +26,21 @@ Implementation of some important problem statements from GFG, LeetCode, Hackerra
          <p><li>Find the number of ways to achieve change using given coins (Recursion & DP approach)</li>
          <li>Find minimum coin change using given coin collection.</li>
          </p>
+ </details>
+
+ <details>
+         <summary>Longest Palidromic Substring</summary>
+         <p><li>Given a string s, return the longest palindromic substring in s.</li>
+         </p>
  </details>  
  
 ### Searching and Sorting ###
+<details>
+         <summary>Bubble Sort</summary>
+         <p><li>Worst & Average case time complexity : O(n*n)</li>
+         <li>Best case time complexity when array is already sorted : O(n)</li>
+         </p>
+ </details>  
+
 ### Greedy ###
 ### Divide and Conquer ###
