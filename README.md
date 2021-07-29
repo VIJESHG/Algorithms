@@ -44,3 +44,16 @@ Implementation of some important problem statements from GFG, LeetCode, Hackerra
 
 ### Greedy ###
 ### Divide and Conquer ###
+
+### Strings ###
+<details>
+<summary>Longest Common Prefix</summary>
+         <p><li>Given list of strings find longest common prefix.</li>
+         </p>
+</details>
+
+<details>
+<summary>Valid Parenthesis</summary>
+         <p><li>Print if given combination of parenthesis is valid.</li>
+         </p>
+</details>
