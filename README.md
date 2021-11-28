@@ -41,6 +41,14 @@ Implementation of some important problem statements from GFG, LeetCode, Hackerra
          <li>Best case time complexity when array is already sorted : O(n)</li>
          </p>
  </details>  
+ 
+ <details>
+         <summary>Insertion Sort</summary>
+ </details>  
+ 
+ <details>
+         <summary>Selection Sort</summary>
+ </details>  
 
 ### Greedy ###
 ### Divide and Conquer ###
