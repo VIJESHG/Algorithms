@@ -34,6 +34,13 @@ Implementation of some important problem statements from GFG, LeetCode, Hackerra
          </p>
  </details>  
  
+ 
+ <details>
+         <summary>Target Sum</summary>
+         <p><li>Find number of ways to achieve target sum using given array input by either adding and substracting elements.</li>
+         </p>
+ </details>  
+ 
 ### Searching and Sorting ###
 <details>
          <summary>Bubble Sort</summary>
